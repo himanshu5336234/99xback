@@ -1,0 +1,52 @@
+Service slug,title,slug,softwares,Items
+digital-marketing-retainer,Campaign Creation,campaign-creation,-,"SEM, Google Display Ads, LinkedIn, Facebook, Instagram, Twitter, Youtube"
+digital-marketing-retainer,Advertising Creatives,advertising-creatives,"PSD, AI, SVG, JPG, PNG, PDF, Gif, Video","Corousal, Video , Photo/Single Image, Canvas ads, Slideshow Ads, Dynamics Product Ads, InMail, PPC, Display creatives"
+digital-marketing-retainer,Campaign Management,campaign-management,-,"SEM, Google Display Ads, LinkedIn, Facebook, Instagram, Twitter, Youtube"
+digital-marketing-retainer,Ad Automation,ad-automation,"AdEspresso, AdZooma, Opteo","Bidding automation, Placement automation, Time & Day, Audience Automation, Adset & Ads"
+digital-marketing-retainer,Campaign Reporting,campaign-reporting,Agency Analytics,"PPC dashboard, Facebook ads dashboard, Google Ads Dashboar, Instagram dashboard, Twitter dashboard, Instagram Dashboard, YouTube Dashboard,"
+seo-retainer,SEO Audit,seo-audit,Raven Tools,"Technical Audit, On-Page Audit, Link Profile Analysis, Mobile Usability Analysis"
+seo-retainer,Advanced Technical SEO,advanced-technical-seo,Raven Tools,"Site Map, Page speed optimiation, Mobile Usability, Add Canonical Tags, Fix redirects, Fix 404 Errors, Fix Page duplicates,"
+seo-retainer,On-Page SEO,on-page-seo,Raven Tools,"Keyword Research, Ranking keywords, URL structure, Website Architecture, Page Meta Titles, Page Meta Descriptions, Image Alt Tags, Header Tags (H1/H2/H3)"
+seo-retainer,Off-Page SEO,off-page-seo,-,"Guest Posting, DA 40+, Spam Score less than 15%, Contextual Articles, Relevant Anchor text"
+seo-retainer,Content,seo-content,-,Blog Articles
+seo-retainer,SEO Reporting,seo-reporting,Raven Tools,"Total Monthly Traffic/ users, Keyword tracker"
+content-marketing-retainer,Content Writing,content-writing,-,"Articles & Blog Posts, Social Media copy, SMS & Emailers, Case Studies"
+content-marketing-retainer,Graphics Creation,graphics-creation,"PSD, AI, SVG, JPG, PNG, PDF, Gif","Infographic, Banners, Flyers, Image, Slides, Gifs"
+content-marketing-retainer,Content Marketing,content-marketing,-,"Social Media - Facebook, Instagram, LinkedIn, Twitter, Medium"
+video-marketing-retainer,Video Creation,video-creation,Adobe premiere pro,"Voice Over, Short Videos/Promos, Motion graphics, Stock Footage,"
+video-marketing-retainer,Organic Video Marketing,organic-video-marketing,-,"Social Media, YouTube SEO"
+video-marketing-retainer,Paid Video Marketing,paid-video-marketing,-,"Facebook, Linkedin, Instagram, YouTube"
+social-media-retainer,Social Media Creatives,Social-media-creatives,"Image, Gif, Video","Infographics, Images, Banners, Flyers, Slides, Gifs, Videos"
+social-media-retainer,Social Media Posting,Social-media-posting,-,"Facebook, Instagram, LinkedIn, Twitter"
+social-media-retainer,Paid Social Media Marketing,paid-Social-media-marketing,-,"Facebook, Instagram, LinkedIn, Twitter"
+ui-ux-retainer,website,website-ui-ux,"Adobe XD, Figma, Sketch, Invision, PhotoShop"," User research, User experience design, Analytics Driven Design , Premium quality images, Stock Images included, Interactive Mockup, High Fidelity Prototypes, Micro Interaction & Consumer Lifecycle"
+ui-ux-retainer,Mobile App,mobile-app-ui-ux,"Adobe XD, Figma, Sketch, Invision, PhotoShop"," User research, User experience design, Analytics Driven Design , Premium quality images, Stock Images included, Interactive Mockup, High Fidelity Prototypes, Micro Interaction & Consumer Lifecycle"
+ui-ux-retainer,Custom App,custom-app-ui-ux,"Adobe XD, Figma, Sketch, Invision, PhotoShop","Product Research, Custom Design & Prototypes,  CRM,dashboards,ERP"
+website-development-retainer,Website Development -Front End,website-front-end-development,"HTML/CC, React JS, Angular, Vue JS","Responsive Design, Interactive , Secure, SEO Ready, Customized"
+website-development-retainer,Website Development -Back End,website-back-end-development,"PHP, Java, Node JS, Python","Responsive Design, Interactive , Secure, SEO Ready, Customized"
+website-development-retainer,Website Development - Database,website-database-development,"MYSQL, Mongo DB, Post GRESQL","Responsive Designs, Interactive , Secure, SEO Ready, Customized"
+app-development-retainer,Flutter,app-development-flutter,Flutter,"Responsive Designs, Interactive , Secure, SEO Ready, Customized"
+app-development-retainer,Ionic,app-development-ionic,Ionic,"Responsive Designs, Interactive , Secure, SEO Ready, Customized"
+app-development-retainer,Android - Java,app-development-java,Android - Java,"Responsive Designs, Interactive , Secure, SEO Ready, Customized"
+app-development-retainer,Android - Kotlin,app-development-kotlin,Android - Kotlin,"Responsive Designs, Interactive , Secure, SEO Ready, Customized"
+app-development-retainer,iOS,app-development-ios,iOS,"Responsive Designs, Interactive , Secure, SEO Ready, Customized"
+app-development-retainer,React Native,app-development-react-native,React Native,"Responsive Designs, Interactive , Secure, SEO Ready, Customized"
+graphic-design-retainer,Graphics Creation,graphics-creation,"PSD, AI, SVG, JPG, PNG, PDF, Gif","Infographic, Banners, Flyers, Image, Slides, Gifs"
+cxo-marketing-retainer,Content Creation,content-creation,-,Thought Leadership
+cxo-marketing-retainer,Content Distribution,content-distribution,-,"Linkedin, Facebook, Instagram, twitter"
+app-development-retainer,Ionic,app-development-ionic,Ionic,"Responsive Designs, Interactive , Secure, SEO Ready, Customized"
+app-development-retainer,Android - Java,app-development-java,Android - Java,"Responsive Designs, Interactive , Secure, SEO Ready, Customized"
+app-development-retainer,Android - Kotlin,app-development-kotlin,Android - Kotlin,"Responsive Designs, Interactive , Secure, SEO Ready, Customized"
+app-development-retainer,iOS,app-development-ios,iOS,"Responsive Designs, Interactive , Secure, SEO Ready, Customized"
+app-development-retainer,React Native,app-development-react-native,React Native,"Responsive Designs, Interactive , Secure, SEO Ready, Customized"
+graphic-design-retainer,Graphics Creation,graphics-creation,"PSD, AI, SVG, JPG, PNG, PDF, Gif","Infographic, Banners, Flyers, Image, Slides, Gifs"
+cxo-marketing-retainer,Content Creation,content-creation,-,Thought Leadership
+cxo-marketing-retainer,Content Distribution,content-distribution,-,"Linkedin, Facebook, Instagram, twitter"
+logo-design,Logo Design,logo-design-ms,"PSD, AI, SVG, JPG, PNG, PDF",Logo Design
+logo-animation,Logo Animation,logo-animation-ms,"MP4, MOV, Gif, AVI, M4V",Logo Animation
+brand-identity-styleguide,Brand Identity Styleguide,brand-identity-styleguide-ms,"PSD, AI, SVG, JPG, PNG, PDF",brand identity Styleguide
+branding-stationery,Stationary Design,branding-stationery-ms,"PSD, AI, SVG, JPG, PNG, PDF",Stationary Design
+business-deck,Business Deck,business-deck-ms,"PPT, PDF. Google Slides, JPG, PNG","Pitch desk, Business Deck"
+web-design,Web Page Design,web-design-ms,"XD, Figma. PSD, AI, Sketch",Web Page Design
+app-design,Mobile App Design,app-design-ms,"XD, Figma. PSD, AI, Sketch",Mobile App Design
+design-system,Ui-Ux Design System,design-system-ms,"XD, Figma. PSD, AI, Sketch",Design System

@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+  # node-app:
+  #   build: .
+  #   image: node-app
+  #   environment:
+  #     - MONGODB_URL=mongodb://mongodb:27017/node-boilerplate
+  #   ports:
+  #     - '3000:3000'
+  #   depends_on:
+  #     - mongodb
+  #   volumes:
+  #     - .:/usr/src/node-app
+
+  mongodb:
+    image: mongo:4.2.1-bionic
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: 7yT6bbWaPNKw4
+      MONGO_INITDB_DATABASE: app
+    ports:
+      - '27017:27017'
+    volumes:
+      - ./.data/db:/data/db
+
+
